@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Theozunime</string>
+    <string name="home">Home</string>
+    <string name="favorite_anime">Favorite Anime</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="anime_information">Anime Information</string>
+    <string name="anime_rating">Anime Rating</string>
+    <string name="type">Type</string>
+    <string name="episodes">Episodes</string>
+    <string name="status">Status</string>
+    <string name="premiered">Premiered</string>
+    <string name="studios">Studios</string>
+    <string name="source">Source</string>
+    <string name="genres">Genres</string>
+    <string name="duration">Duration</string>
+    <string name="rating">Rating</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="view_error_message">Ooppss!! Something went wrong.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
